@@ -1,0 +1,200 @@
+date,name,financial_status,fulfillment_status,order_status,product_name,product_sku,qty
+2020-03-09,#1002,paid,fulfilled,closed,Bali Candle,,1
+2020-03-09,#1003,paid,,open,Bali Candle,,1
+2020-03-19,#1006,paid,fulfilled,closed,Schweden Große Duftkerze,CA-SW-500,1
+2020-03-19,#1007,paid,fulfilled,closed,MAY Duftkerze,CA-MAY-INT-180,1
+2020-03-19,#1007,paid,fulfilled,closed,Persia Handseife,SO-PE-200,2
+2020-03-19,#1005,paid,fulfilled,closed,Ibiza Duftstäbchen,DI-IB-100,1
+2020-03-19,#1005,paid,fulfilled,closed,Paris Duftkerze,CA-PA-200,1
+2020-03-19,#1006,paid,fulfilled,closed,Bergen Candle,,1
+2020-03-19,#1006,paid,fulfilled,closed,Ibiza Duftstäbchen,DI-IB-100,1
+2020-03-19,#1005,paid,fulfilled,closed,3er Geschenk-Set Kerze-Duftstäbchen-Seife,GIB-SML-INL03,1
+2020-03-19,#1005,paid,fulfilled,closed,Persia Handseife,SO-PE-200,1
+2020-03-19,#1006,paid,fulfilled,closed,Persia Handseife,SO-PE-200,1
+2020-03-20,#1008,paid,fulfilled,closed,Ibiza Duftstäbchen,DI-IB-100,1
+2020-03-20,#1008,paid,fulfilled,closed,Ibiza Mini Duftstäbchen,DI-IB-50,1
+2020-03-25,#1011,paid,fulfilled,closed,Persia Bundle,SO-PB-PAC,1
+2020-03-25,#1009,paid,fulfilled,closed,Persia Bundle,SO-PB-PAC,1
+2020-03-25,#1010,paid,fulfilled,closed,Persia Bundle,SO-PB-PAC,1
+2020-04-02,#1017,pending,,open,Persia Geschenk-Set,,0
+2020-04-02,#1016,paid,,open,Persia Geschenk-Set,,0
+2020-04-02,#1017,pending,,open,Stockholm Candle,,1
+2020-04-02,#1016,paid,,open,Persia Geschenk-Set,,0
+2020-04-02,#1017,pending,,open,Persia Geschenk-Set,,0
+2020-04-02,#1016,paid,,open,Bergen Candle,,1
+2020-04-02,#1016,paid,,open,Persia Geschenk-Set,,0
+2020-04-02,#1017,pending,,open,Persia Geschenk-Set,,0
+2020-04-02,#1017,pending,,open,Persia Geschenk-Set,,0
+2020-04-02,#1017,pending,,open,Paris Candle,,1
+2020-04-02,#1016,paid,,open,Persia Geschenk-Set,,0
+2020-04-03,#1027,paid,,open,Madrid Candle,CAN-OGHJK,2
+2020-04-03,#1027,paid,,open,Paris Candle,testSKU,1
+2020-04-03,#1031,paid,,open,Stockholm Candle,,2
+2020-04-03,#1030,paid,,open,Paris Candle,testSKU2,1
+2020-04-03,#1026,paid,,open,Paris Candle,testSKU,1
+2020-04-03,#1029,paid,,open,Paris Candle,,2
+2020-04-03,#1030,paid,,open,Paris Candle,,1
+2020-04-03,#1026,paid,,open,Bali Candle,,2
+2020-04-03,#1028,paid,,open,Paris Candle,,2
+2020-04-03,#1028,paid,,open,Paris Candle,testSKU,1
+2020-04-06,#1044,paid,,open,Bali bundle,test7Sku,3
+2020-04-06,#1041,paid,fulfilled,closed,Norwegen Große Duftkerze,CA-NO-500,1
+2020-04-06,#1035,partially_refunded,fulfilled,closed,Persia Geschenk-Set,SO-PE-200,1
+2020-04-06,#1048,paid,,open,Ibiza Duftstäbchen,DI-IB-100,3
+2020-04-06,#1046,paid,,open,Bahamas Duftstäbchen,DI-BA-100,1
+2020-04-06,#1039,partially_refunded,fulfilled,closed,Paris Candle,,1
+2020-04-06,#1048,paid,,open,Paris Candle,,1
+2020-04-06,#1046,paid,,open,California Duftstäbchen,DI-SM-100,1
+2020-04-06,#1040,paid,,open,Santorini Duftkerze,CA-SA-NEW,1
+2020-04-06,#1047,paid,,open,Ashikaga Massagekerze,CA-AS-140,1
+2020-04-06,#1039,partially_refunded,fulfilled,closed,Bali Candle,testSku,1
+2020-04-06,#1043,paid,fulfilled,closed,Persia Handseife,SO-PE-200,1
+2020-04-06,#1052,pending,,open,Persia Mini Duftkerze,CA-PE-70,1
+2020-04-06,#1043,paid,fulfilled,closed,Madagaskar Duftkerze,CA-MD-500,1
+2020-04-06,#1042,paid,,open,Lappland - Wooden Cabin,CA-LPWC-180,1
+2020-04-06,#1052,pending,,open,Persia Duftstäbchen,DI-PE-100,1
+2020-04-06,#1044,paid,,open,Bali bundle,GIB-SML-INL02,1
+2020-04-06,#1047,paid,,open,Bahamas Duftkerze,CA-BA-180,4
+2020-04-06,#1044,paid,,open,Paris Candle,,1
+2020-04-06,#1035,partially_refunded,fulfilled,closed,Bundle Test2,testSku,2
+2020-04-06,#1035,partially_refunded,fulfilled,closed,Stockholm Candle,,1
+2020-04-06,#1035,partially_refunded,fulfilled,closed,Persia Geschenk-Set,CA-PE-180,1
+2020-04-06,#1051,paid,fulfilled,closed,Persia Mini Duftkerze,CA-PE-70,1
+2020-04-06,#1035,partially_refunded,fulfilled,closed,Persia Geschenk-Set,DI-PE-100,1
+2020-04-06,#1045,paid,,open,Sri Lanka Duftkerze,CA-DA-NEW,1
+2020-04-06,#1047,paid,,open,Bahamas Handseife,SO-BA-200,2
+2020-04-06,#1039,partially_refunded,fulfilled,closed,Stockholm Candle,,1
+2020-04-06,#1045,paid,,open,Seychellen Duftkerze,CA-SY-500,1
+2020-04-06,#1041,paid,fulfilled,closed,Himalaya Duftkerze,CA-AN-NEW,1
+2020-04-06,#1034,paid,,open,Ashikaga Massagekerze,CA-AS-140,1
+2020-04-06,#1033,paid,fulfilled,closed,Bahamas Duftkerze,CA-BA-180,1
+2020-04-06,#1039,partially_refunded,fulfilled,closed,Persia Geschenk-Set,DI-PE-100,1
+2020-04-06,#1035,partially_refunded,fulfilled,closed,Bundle Test2,GIB-SML-INL03,1
+2020-04-06,#1042,paid,,open,Lappland - Winter Land,CA-LPWL-180,1
+2020-04-06,#1046,paid,,open,Marrakesh Duftstäbchen,DI-MA-100,1
+2020-04-06,#1042,paid,,open,California Duftstäbchen,DI-SM-100,1
+2020-04-06,#1039,partially_refunded,fulfilled,closed,Persia Geschenk-Set,CA-PE-180,1
+2020-04-06,#1035,partially_refunded,fulfilled,closed,Paris Candle,,1
+2020-04-06,#1046,paid,,open,Ibiza Duftstäbchen,DI-IB-100,1
+2020-04-06,#1043,paid,fulfilled,closed,"""Light Up Your Memories"" Streichhölzer",AC-LM-200,1
+2020-04-06,#1038,paid,,open,Marrakesh Handseife,SO-MA-200,1
+2020-04-06,#1035,partially_refunded,fulfilled,closed,Persia Geschenk-Set,GIB-SML-INL03,1
+2020-04-06,#1045,paid,,open,Santorini Duftstäbchen,DI-SA-100,1
+2020-04-06,#1045,paid,,open,Provence Duftsäckchen,SA-PR-10,1
+2020-04-06,#1046,paid,,open,Persia Duftstäbchen,DI-PE-100,1
+2020-04-06,#1041,paid,fulfilled,closed,Kyoto Duftkerze,CA-KY-200,1
+2020-04-06,#1052,pending,,open,Persia Handseife,SO-PE-200,1
+2020-04-06,#1039,partially_refunded,fulfilled,closed,Persia Geschenk-Set,SO-PE-200,1
+2020-04-06,#1052,pending,,open,Persia Duftkerze,CA-PE-180,2
+2020-04-06,#1041,paid,fulfilled,closed,Bahamas Handseife,SO-BA-200,1
+2020-04-06,#1051,paid,fulfilled,closed,Persia Handseife,SO-PE-200,1
+2020-04-06,#1037,paid,,open,Fiji Duftsäckchen,SA-FI-10,1
+2020-04-06,#1051,paid,fulfilled,closed,Persia Duftkerze,CA-PE-180,1
+2020-04-06,#1039,partially_refunded,fulfilled,closed,Persia Geschenk-Set,GIB-SML-INL03,1
+2020-04-07,#1054,paid,fulfilled,closed,Ibiza Duftstäbchen,DI-IB-100,1
+2020-04-07,#1054,paid,fulfilled,closed,Ibiza Mini Duftstäbchen,DI-IB-50,1
+2020-04-07,#1054,paid,fulfilled,closed,Bahamas Mini Duftkerze,CA-BA-70,1
+2020-04-07,#1053,paid,fulfilled,closed,3er Geschenk-Box,GIB-SML-INL02,1
+2020-04-07,#1053,paid,fulfilled,closed,Persia Handseife,SO-PE-200,1
+2020-04-09,AMDE1056,paid,fulfilled,closed,Persia Duftkerze,CA-PE-180,1
+2020-04-09,AMDE1055,paid,fulfilled,closed,Persia Geschenk-Set Test,SO-PE-200,1
+2020-04-09,AMDE1057,pending,,open,Fresh Set,DI-IB-100,1
+2020-04-09,AMDE1055,paid,fulfilled,closed,Persia Geschenk-Set Test,CA-PE-180,1
+2020-04-09,AMDE1055,paid,fulfilled,closed,Persia Geschenk-Set Test,GIB-SML-INL03,1
+2020-04-09,AMDE1058,paid,,cancelled,Persia Duftstäbchen,DI-PE-100,1
+2020-04-09,AMDE1055,paid,fulfilled,closed,Paris Candle,,1
+2020-04-09,AMDE1056,paid,fulfilled,closed,Kyoto Duftkerze,CA-KY-200,1
+2020-04-09,AMDE1056,paid,fulfilled,closed,Bahamas Handseife,SO-BA-200,1
+2020-04-09,AMDE1055,paid,fulfilled,closed,Persia Geschenk-Set Test,DI-PE-100,1
+2020-04-09,AMDE1058,paid,,cancelled,Persia Duftkerze,CA-PE-180,1
+2020-04-09,AMDE1055,paid,fulfilled,closed,Stockholm Candle,,1
+2020-04-09,AMDE1057,pending,,open,Fresh Set,SO-SA-200,1
+2020-04-09,AMDE1057,pending,,open,Fresh Set,CA-AN-NEW,1
+2020-04-09,AMDE1057,pending,,open,Fresh Set,SA-FI-10,1
+2020-04-09,AMDE1055,paid,fulfilled,closed,Bali Candle,testSku,1
+2020-04-10,AMDE1059,partially_refunded,,cancelled,Summer Nights,CA-BA-70,1
+2020-04-10,AMDE1062,pending,restocked,cancelled,Up in the Air Set,DI-NA-100,1
+2020-04-10,AMDE1059,partially_refunded,,cancelled,Summer Nights,DI-SM-50,1
+2020-04-10,AMDE1059,partially_refunded,,cancelled,Summer Nights,CA-PA-70,1
+2020-04-10,AMDE1059,partially_refunded,,cancelled,Summer Nights,DI-IB-50,1
+2020-04-10,AMDE1059,partially_refunded,,cancelled,Summer Nights,CA-HA-70,1
+2020-04-10,AMDE1062,pending,restocked,cancelled,Up in the Air Set,DI-SM-100,1
+2020-04-10,AMDE1063,paid,,cancelled,Massagekerzen Set,CA-KE-140,1
+2020-04-10,AMDE1059,partially_refunded,,cancelled,Summer Nights,CA-SA-70,1
+2020-04-10,AMDE1059,partially_refunded,,cancelled,Summer Nights,CA-SI-70,1
+2020-04-10,AMDE1059,partially_refunded,,cancelled,Summer Nights,CA-KY-70,1
+2020-04-10,AMDE1062,pending,restocked,cancelled,Up in the Air Set,DI-BA-100,1
+2020-04-10,AMDE1063,paid,,cancelled,Massagekerzen Set,CA-AS-140,1
+2020-04-11,AMDE1064,pending,,open,"""Light Up Your Memories"" Streichhölzer",AC-LM-200,1
+2020-04-11,AMDE1064,pending,,open,Ibiza Duftstäbchen,DI-IB-100,1
+2020-04-11,AMDE1064,pending,,open,Geschenktasche,AC-GB-10,1
+2020-04-12,AMDE1065,pending,,open,Around the World Set,CA-KY-200,1
+2020-04-12,AMDE1065,pending,,open,Around the World Set,DI-SA-100,1
+2020-04-12,AMDE1065,pending,,open,Around the World Set,CA-AVA-180,1
+2020-04-12,AMDE1065,pending,,open,Around the World Set,CA-SI-180,1
+2020-04-12,AMDE1065,pending,,open,Around the World Set,CA-HA-180,1
+2020-04-12,AMDE1065,pending,,open,Around the World Set,DI-PE-100,1
+2020-04-12,AMDE1065,pending,,open,Around the World Set,CA-PA-200,1
+2020-04-12,AMDE1065,pending,,open,Around the World Set,DI-SM-100,1
+2020-04-12,AMDE1065,pending,,open,Around the World Set,DI-IB-100,1
+2020-04-12,AMDE1065,pending,,open,Around the World Set,DI-BA-100,1
+2020-04-12,AMDE1065,pending,,open,Around the World Set,DI-NA-100,1
+2020-04-12,AMDE1065,pending,,open,Around the World Set,CA-MAY-180,1
+2020-04-12,AMDE1065,pending,,open,Around the World Set,CA-AN-NEW,1
+2020-04-12,AMDE1065,pending,,open,Around the World Set,CA-BL-180,1
+2020-04-12,AMDE1065,pending,,open,Around the World Set,CA-DA-NEW,1
+2020-04-12,AMDE1065,pending,,open,Around the World Set,DI-MA-100,1
+2020-04-12,AMDE1065,pending,,open,Around the World Set,CA-PR-180,1
+2020-04-13,AMDE1068,paid,fulfilled,closed,AVA & MAY Set,CA-AM-PAC,1
+2020-04-13,AMDE1066,pending,,open,Bahamas Geschenk-Set,SO-BA-200,1
+2020-04-13,AMDE1066,pending,,open,Bahamas Geschenk-Set,CA-BA-180,1
+2020-04-13,AMDE1067,paid,fulfilled,closed,Bahamas Duftkerze,CA-BA-180,1
+2020-04-13,AMDE1067,paid,fulfilled,closed,Persia Duftkerze,CA-PE-180,1
+2020-04-13,AMDE1066,pending,,open,California Mini Duftkerze,CA-PR-70,1
+2020-04-13,AMDE1068,paid,fulfilled,closed,Bahamas Duftkerze,CA-BA-180,1
+2020-04-13,AMDE1068,paid,fulfilled,closed,Persia Duftstäbchen,DI-PE-100,1
+2020-04-13,AMDE1066,pending,,open,Bahamas Geschenk-Set,DI-BA-100,1
+2020-04-13,AMDE1066,pending,,open,Bahamas Geschenk-Set,GIB-SML-INL03,1
+2020-04-15,AMDE1072,paid,,cancelled,Santorini Geschenk-Set,SO-SA-200,1
+2020-04-15,AMDE1071,pending,,open,Persia Geschenk-Set,CA-PE-180,1
+2020-04-15,AMDE1071,pending,,open,Bahamas Geschenk-Set,GIB-SML-INL03,1
+2020-04-15,AMDE1070,pending,,open,Love is in the Air,CA-PA-200,1
+2020-04-15,AMDE1070,pending,,open,Hawaii Duftkerze,CA-HA-180,2
+2020-04-15,AMDE1072,paid,,cancelled,Santorini Geschenk-Set,CA-SA-NEW,1
+2020-04-15,AMDE1071,pending,,open,Bahamas Geschenk-Set,CA-BA-180,1
+2020-04-15,AMDE1071,pending,,open,Persia Geschenk-Set,SO-PE-200,1
+2020-04-15,AMDE1070,pending,,open,AVA Duftkerze,CA-AVA-180,1
+2020-04-15,AMDE1070,pending,,open,Love is in the Air,CA-SA-NEW,1
+2020-04-15,AMDE1071,pending,,open,Bahamas Geschenk-Set,DI-BA-100,1
+2020-04-15,AMDE1071,pending,,open,Persia Geschenk-Set,GIB-SML-INL03,1
+2020-04-15,AMDE1072,paid,,cancelled,Santorini Geschenk-Set,DI-SA-100,1
+2020-04-15,AMDE1072,paid,,cancelled,Santorini Geschenk-Set,GIB-SML-INL03,1
+2020-04-15,AMDE1071,pending,,open,Bahamas Geschenk-Set,SO-BA-200,1
+2020-04-15,AMDE1071,pending,,open,Persia Geschenk-Set,DI-PE-100,1
+2020-04-16,AMDE1087,paid,,cancelled,Nara Duftkerze,CA-NA-180,1
+2020-04-16,AMDE1086,paid,,cancelled,California Mini Duftkerze,CA-PR-70,1
+2020-04-16,AMDE1086,paid,,cancelled,Himalaya Mini Duftkerze,CA-AN-70,1
+2020-04-16,AMDE1001092,paid,,open,Visit to Japan,CA-NA-180,1
+2020-04-16,AMDE1090,paid,,cancelled,Visit to Japan,CA-KY-200,1
+2020-04-16,AMDE1086,paid,,cancelled,Up in the Air Set,DI-SM-100,1
+2020-04-16,AMDE1090,paid,,cancelled,California Mini Duftkerze,CA-PR-70,1
+2020-04-16,AMDE1085,paid,,open,Nara Duftstäbchen,DI-NA-100,1
+2020-04-16,AMDE1089,paid,fulfilled,closed,Massagekerzen Set,CA-KE-140,1
+2020-04-16,AVDE1093,pending,,cancelled,Daily Dose of Happiness,SO-BA-200,1
+2020-04-16,AMDE1078,partially_refunded,,open,Provence Duftsäckchen,SA-PR-10,1
+2020-04-16,AMDE1001091,pending,,open,Himalaya Mini Duftkerze,CA-AN-70,1
+2020-04-16,AVDE1093,pending,,cancelled,Himalaya Mini Duftkerze,CA-AN-70,1
+2020-04-16,AMDE1001092,paid,,open,Visit to Japan,CA-KY-200,1
+2020-04-16,AMDE1078,partially_refunded,,open,Bahamas Handseife,SO-BA-200,1
+2020-04-16,AVDE1096,partially_refunded,fulfilled,closed,Persia Handseife,SO-PE-200,1
+2020-04-16,AVDE1093,pending,,cancelled,Daily Dose of Happiness,CA-NA-180,1
+2020-04-16,AMDE1001092,paid,,open,Himalaya Mini Duftkerze,CA-AN-70,1
+2020-04-16,AMDE1090,paid,,cancelled,Himalaya Mini Duftkerze,CA-AN-70,1
+2020-04-16,AVDE1093,pending,,cancelled,Nara Duftkerze,CA-NA-180,1
+2020-04-16,AMDE1084,partially_refunded,,open,Santorini Geschenk-Set,DI-SA-100,1
+2020-04-16,AMDE1081,pending,fulfilled,open,Nara Duftkerze,CA-NA-180,1
+2020-04-16,AMDE1088,paid,,open,Persia Handseife,SO-PE-200,1
+2020-04-16,AMDE1079,pending,,open,Persia Handseife,SO-PE-200,1
+2020-04-16,AMDE1080,paid,fulfilled,closed,California Mini Duftkerze,CA-PR-70,1
+2020-04-16,AMDE1001091,pending,,open,Visit to Japan,CA-NA-180,1
+2020-04-16,AVDE1093,pending,,cancelled,Daily Dose of Happiness,SA-FI-10,1
