@@ -13,7 +13,7 @@ MongoDB needs to run locally on the default port 27017
 ## Configuration
 
 A service account needs to be created and the path to the credentials file needs
-to be added to `config.py`. Instructions for this can be found [here](https://gspread.readthedocs.io/en/latest/oauth2.html).
+to be added to [config.py](config.py). Instructions for this can be found [here](https://gspread.readthedocs.io/en/latest/oauth2.html).
 
 A Google Sheet needs to be created and the id of it needs to be added to
 [config.py](config.py). The import and aux tab in that sheet need to be configured like in
